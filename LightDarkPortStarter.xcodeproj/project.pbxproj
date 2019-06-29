@@ -79,6 +79,7 @@
 		C43D9BF922C77D3000FBDB7C /* plusDark@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "plusDark@2x.png"; path = "../../plusDark@2x.png"; sourceTree = "<group>"; };
 		C43D9BFA22C77D3100FBDB7C /* plusLight.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = plusLight.png; path = ../../plusLight.png; sourceTree = "<group>"; };
 		C43D9BFB22C77D3100FBDB7C /* plusLight@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "plusLight@2x.png"; path = "../../plusLight@2x.png"; sourceTree = "<group>"; };
+		C43D9C0222C77DD600FBDB7C /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -129,6 +130,7 @@
 		C43D9BAF22C77A4400FBDB7C /* LightDarkPortStarter */ = {
 			isa = PBXGroup;
 			children = (
+				C43D9C0222C77DD600FBDB7C /* README.md */,
 				C43D9BB022C77A4400FBDB7C /* AppDelegate.swift */,
 				C43D9BB222C77A4400FBDB7C /* SceneDelegate.swift */,
 				C43D9BB422C77A4400FBDB7C /* ViewController.swift */,
