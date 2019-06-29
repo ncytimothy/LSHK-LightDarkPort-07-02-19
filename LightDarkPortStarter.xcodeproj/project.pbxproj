@@ -110,6 +110,7 @@
 		C43D9BA422C77A4400FBDB7C = {
 			isa = PBXGroup;
 			children = (
+				C43D9C0222C77DD600FBDB7C /* README.md */,
 				C43D9BAF22C77A4400FBDB7C /* LightDarkPortStarter */,
 				C43D9BC622C77A4500FBDB7C /* LightDarkPortStarterTests */,
 				C43D9BD122C77A4500FBDB7C /* LightDarkPortStarterUITests */,
@@ -130,7 +131,6 @@
 		C43D9BAF22C77A4400FBDB7C /* LightDarkPortStarter */ = {
 			isa = PBXGroup;
 			children = (
-				C43D9C0222C77DD600FBDB7C /* README.md */,
 				C43D9BB022C77A4400FBDB7C /* AppDelegate.swift */,
 				C43D9BB222C77A4400FBDB7C /* SceneDelegate.swift */,
 				C43D9BB422C77A4400FBDB7C /* ViewController.swift */,
