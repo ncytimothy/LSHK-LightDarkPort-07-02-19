@@ -1,4 +1,4 @@
-# LSHK-SummerDrinks-07-02-19
+# LSHK-LightDarkPort-07-02-19
 
 * [Meetup Link](https://www.meetup.com/Learn-Swift-HK/events/262608357/)
 
